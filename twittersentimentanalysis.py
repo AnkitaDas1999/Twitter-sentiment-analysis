@@ -6,11 +6,11 @@ import csv
 import matplotlib.pyplot as plt
 
 #Create four variables that authenticating with twitter will require
-consumer_key = '4VEEO306nLzJGDxnOcht33Te6'
-consumer_secret = 't4wYbwJApXOS98dkJdWwCxMXwpFWVb51adziPLNuIMLMYnThSn'
+#consumer_key = 
+#consumer_secret = 
 
-access_token = '700996449467760642-oq0FoZcF2wfRmcEb9blu02ROQIKpQao'
-access_token_secret = 'pB4WTl5GcayJZTZeWcthQlGglmSuCzZnorgeWa1mJJ96e'
+#access_token = 
+#access_token_secret = 
 
 #login via code along with OAuthHandler method for tweepy. The method uses the 2 arguments
 #to perform it's internal calculation
